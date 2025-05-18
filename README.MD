@@ -30,8 +30,8 @@ Follow these steps to run the application locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone "https://github.com/muhmmadshaban/AI-AGENT-CHATBOT-WITH-FASTAPI"
+cd main
 ```
 
 ### 2. Set Up a Virtual Environment (optional but recommended)
@@ -55,6 +55,26 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --host 127.0.0.1 --port 9999 --reload
 ```
+
+---
+
+## 🔑 API Keys Setup
+
+To run this application, you need to obtain API keys from the following providers:
+
+- **Groq**: Obtain your API key from the [Groq Cloud](https://groq.com/)
+- **OpenAI**: Obtain your API key from the [OpenAI platform](https://platform.openai.com/)
+- **Tavily**: Obtain your API key from the [Tavily website](https://tavily.com/)
+
+After getting the keys, create a `.env` file in the root directory of the project and add the following lines:
+
+```env
+GROQ_API_KEY="your_groq_api_key_here"
+TAVILY_API_KEY="your_tavily_api_key_here"
+OPENAI_API_KEY="your_openai_api_key_here"
+
+
+
 
 ### 5. Run the Frontend (Streamlit)
 
@@ -113,6 +133,7 @@ Here is what the chatbot interface looks like:
 
 **Muhmmad Shaban**  
 📧 mshaban0121@gmail.com  
+🔗 www.linkedin.com/in/muhmmadshaban
 
 ---
 

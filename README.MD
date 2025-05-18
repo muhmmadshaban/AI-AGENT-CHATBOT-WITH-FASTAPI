@@ -103,7 +103,7 @@ http://127.0.0.1:9999/chat
 
 Here is what the chatbot interface looks like:
 
-![Chat Interface](images.png)
+![Chat Interface](images/chat.png)
 
 
 

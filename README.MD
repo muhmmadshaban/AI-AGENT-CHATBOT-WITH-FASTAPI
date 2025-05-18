@@ -133,7 +133,7 @@ Here is what the chatbot interface looks like:
 
 **Muhmmad Shaban**  
 📧 mshaban0121@gmail.com  
-🔗 www.linkedin.com/in/muhmmadshaban
+🔗 [www.linkedin.com/in/muhmmadshaban](LINKEDIN )
 
 ---
 

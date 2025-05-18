@@ -72,7 +72,7 @@ After getting the keys, create a `.env` file in the root directory of the projec
 GROQ_API_KEY="your_groq_api_key_here"
 TAVILY_API_KEY="your_tavily_api_key_here"
 OPENAI_API_KEY="your_openai_api_key_here"
-
+```
 
 
 ---
